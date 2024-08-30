@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there,+Dewmith+here...)](https://git.io/typing-svg)
+
 <h1 align="center">Hi 👋, I'm Dewmith Magamage</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanaka</h3>
 
