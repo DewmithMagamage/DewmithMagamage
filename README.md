@@ -13,14 +13,30 @@
 Computer Science Student | Enthusiast in Transforming Code into Compelling Solutions | Passionate change maker on a mission to merge imagination with tech...
 
  </div>
- 
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=dewmithmagamage&label=Profile%20views&color=0e75b6&style=flat" alt="dewmithmagamage" /> </p>
 <div align="center"> 
-  <a href="mailto:dewmithmagamage@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="www.linkedin.com/in/dewmith-magamage-589186301"_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+  <h3 align="center">Connect with me:</h3>
+<p align="center">
+    <a href="https://linkedin.com/in/dewmithmagamage" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dewmith magamage" height="30" width="40" />
+    </a>
+    <a href="https://instagram.com/dew_mythz" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dew_mythz" height="30" width="40" />
+    </a>
+    <a href="https://www.youtube.com/c/dewmithmagamage" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dewmith magamage" height="30" width="40" />
+    </a>
+    <a href="https://www.facebook.com/dewmithmagamage" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dewmith magamage" height="30" width="40" />
+    </a>
+    <a href="mailto:dewmithmagamage@gmail.com" target="blank">
+        <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="email" height="40" width="40" />
+    </a>
+    <a href="https://twitter.com/dewmith_magamage" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dewmith magamage" height="30" width="40" />
+    </a>
+</p>
+
  
 </div>
 
