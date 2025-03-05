@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There...+👋;+I'm+Dewmith+Magamage;+Wellcome+To+My+Profile...;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There...+👋;+I'm+Dewmith+Magamage;+Welcome+To+My+Profile...;" />
 </h1>
 
 <h3 align="center">Computer Science Undergraduate | University Of Westminster</h3>
